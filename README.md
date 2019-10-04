@@ -1,3 +1,17 @@
 # Head First Design Patterns
+<li>https://github.com/bethrobson/Head-First-Design-Patterns 作者 github</li>
 
-https://github.com/bethrobson/Head-First-Design-Patterns 作者 github
+# 第一章 - 介紹設計模式-歡迎到來設計模式
+<li>1.介紹設計模式</li>
+<li>2.類別與次類別之間的關係</li>
+<li>3.繼承的缺失</li>
+<li>4.把會變動的部分取出並「封裝」起來，好讓其他部份部受到影響，程式碼變動之後，出其不意的部分會變少，系統會變更有彈性。</li>
+<li>5.分開變動和不會變動的部分</li>
+<li>6.設計守則：寫程式是針對介面寫，而不是針對實踐方式寫</li>
+<li>7.「寫程式是針對介面寫」真正的意思是「寫程式是針對超型態(supertype)而寫」</li>
+<li>8.動態地設計行為</li>
+<li>9.行為封裝的大局觀</li>
+<li>10.設計守則：多用合成，少用繼承</li>
+<li>11.「策略模式」：定義了演算法家族，個別封裝起來，讓它們之間可以互相替換，此模式讓演算法的變動，不會影響到使用演算法的程式</li>
+<li>12.共通模式詞彙</li>
+
