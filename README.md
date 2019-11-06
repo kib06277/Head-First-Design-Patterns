@@ -162,5 +162,14 @@
 <li>步驟二：寫程式碼建立動態代理人</li>
 <li>步驟三：利用適當的代理人包裝任何 PersonBean 物件</li>
 
-
-
+# 第十二章 - 複合模式
+<li>1.模式通常被一起使用，並在同一個設計問題上攜手合作。</li>
+<li>2.複合模式：「結合兩個或多個模式再一起解決方案，以解決一般或者常發生的問題。」</li>
+<li>3.簡短複習各種模式</li>
+<li>4.認識複合模式代表 MVC(Model-View-Controller)</li>
+<li>5.model 利用「觀察者模式」讓 controller 和 View 可以得知狀態的改變。</li>
+<li>6.View 和 controller 則是實踐「策略模式」，controller 是 View 的行為，不同的行為可以換不同的 controller。</li>
+<li>7.View 內部使用「合成模式」管理諸多視覺化控件。</li>
+<li>8.MVC-WEB 的關係與 MVC-APP 的關係</li>
+<li>9.Model 2 Controller Servle 的介紹</li>
+<li>10.Model 2 模式</li>
